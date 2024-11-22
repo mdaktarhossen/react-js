@@ -1,8 +1,15 @@
-# React + Vite
+Step 1: Small Projects (Topic by Topic)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Counter App
+   Concepts Covered:
 
-Currently, two official plugins are available:
+useState Hook
+Event handling
+Project Details:
+Create a simple app where users can:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Increment a number.
+Decrement a number.
+Reset the count to zero.
+Explanation:
+This project focuses on state management using the useState hook. You’ll learn how to update and manage state variables.
